@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
     // TODO: 1. Definisikan variabel Button btnAddCart, btnPlus, btnMin, btnEmpty, btnOrder. Contoh: Button btnAddCart
 
     // TODO: 2. Definisikan variabel TextView txtResult, txtTotal
-    //test
+
     // TODO: 3. Definisikan variabel EditText edtName, edtPrice, edtQty
 
     // TODO: 17. Buat variabel Integer bernama grandTotal dan bernilai awal = 0
